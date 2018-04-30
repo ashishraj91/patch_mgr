@@ -6,11 +6,11 @@
     "curl": "7.35.0-1ubuntu2.5",
     "apt-utils": "1.0.1ubuntu2.17",
     "sudo": "1.8.9p5-1ubuntu1",
-    "openssh-sftp-server": "1:6.6p1-2ubuntu2.8",
-    "openssh-server": "1:6.6p1-2ubuntu2.8",
-    "openssh-client": "1:6.6p1-2ubuntu2.8",
-    "openssl": "1.0.1f-1ubuntu2.21",
-    "mount": "2.20.1-5.1ubuntu20.9"
+    "openssh-sftp-server": "1:6.6p1-2ubuntu2",
+    "openssh-server": "1:6.6p1-2ubuntu2",
+    "openssh-client": "1:6.6p1-2ubuntu2",
+    "openssl": "1.0.1f-1ubuntu2",
+    "mount": "2.20.1-5.1ubuntu20"
     
   }
 }
