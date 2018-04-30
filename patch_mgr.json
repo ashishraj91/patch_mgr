@@ -3,7 +3,7 @@
   "package": {
     "tar": "1.27.1-1ubuntu0.1",
     "apt": "1.0.1ubuntu2.17",
-    "curl": "7.35.0-1ubuntu2.10",
+    "curl": "7.35.0-1ubuntu2.5",
     "apt-utils": "1.0.1ubuntu2.17",
     "sudo": "1.8.9p5-1ubuntu1.3",
     "openssh-sftp-server": "1:6.6p1-2ubuntu2.8",
